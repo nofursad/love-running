@@ -116,7 +116,7 @@ h1, h2 {
 
 /* club ethos */
 
-#club-thos {
+#club-ethos {
     height: 600px;
 }
 
@@ -225,7 +225,7 @@ footer {
     text-align: center;   
 }
 
-.social-networks li {
+.social-networks > li {
     display: inline;
 }
 
@@ -233,5 +233,5 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    columns: #3a3a3a;
+    color: #3a3a3a;
 }
